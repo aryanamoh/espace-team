@@ -2,6 +2,8 @@
 
 # ESP-NOW Multi Unit Demo
 
+Modified by: Sun, Prentice, Silvia, Lana, Nicole, Aryana (Creative Embedded Systems)
+
 This project extends the DroneBot Workshop's ESP-NOW Multi Unit Demo to support enhanced communication and control functionalities across multiple ESP32 devices using the ESP-NOW protocol. This version introduces advanced game mechanics, including multiple levels, dynamic command generation, and command broadcasting with real-time feedback on command status.
 
 ## Features
